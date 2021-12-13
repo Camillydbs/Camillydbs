@@ -8,7 +8,7 @@ package jogoPI;
 import java.util.Random;
 
 
-
+//Principal tela com os códigos de funcionamento do jogo
 /**
  *
  * @author Camilly
